@@ -1,0 +1,15 @@
+{
+  "required": false,
+  "package": "com.drawerfps.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "drawerfps.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+    "TileEntityDrawersRendererMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "minVersion": "0.8"
+}
